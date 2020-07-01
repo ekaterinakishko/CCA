@@ -27,6 +27,7 @@
     "countValueTC040": "-1",
     "countValueTC041": "2",
     "inputMin": 1,
-    "inputMax": 9
+    "inputMax": 9,
+    "numberOfBlackButtons": 2
   }
 }
