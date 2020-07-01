@@ -20,7 +20,8 @@
     "editNameField": "Default Counter",
     "editNameFieldLabel": "Edit Counter Title:",
     "defaultNumberBlackBtn": 6,
-    "blackBtn": "['-1', '-2', '-3', '1', '2', '3']"
+    "blackBtnNegative": "-1,-2,-3",
+    "blackBtnPositive": "1,2,3"
   },
   "defaultCounterFunctionality": {
     "countValueTC040": "-1",

@@ -9,7 +9,7 @@
     "addCounterBtn": ".btn-success"
   },
   "counter": {
-    "counterName": "h3",
+    "counterName": "h3:nth-child(1)",
     "lowerLimitField": "[name='negative']",
     "lowerInputField": "[name='lower']",
     "upperLimitField": "[name='positive']",

@@ -1,5 +1,3 @@
-
-
 const selectorCnt = require('./../data/selectors.json').counter;
 const expectedDCF = require('./../data/expected.json').defaultCounterFunctionality;
 describe('Default counter functionality', function () {
