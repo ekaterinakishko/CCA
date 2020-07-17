@@ -68,5 +68,4 @@ describe('Default counter functionality', function () {
         const actual = $(selectorCnt.countValue).isDisplayed();
         expect(actual).toEqual(false);
     });
-
 });
