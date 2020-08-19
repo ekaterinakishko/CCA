@@ -186,4 +186,3 @@ describe('Complex Counter App', function () { //define suite title by passing a 
 
     });
 });
-
