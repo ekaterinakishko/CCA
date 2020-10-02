@@ -17,3 +17,4 @@ function inputNumber (str, value) {
     }
 }
 module.exports = inputNumber;
+
